@@ -4,6 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - ShootAttack
+  - Mob
+  - DefaultAttack
+  - CircleAttack
+  - Spine
+  - Wall
   - Platform
   layers:
   - Default
@@ -13,15 +19,15 @@ TagManager:
   - Water
   - UI
   - 
+  - hurted mob
+  - hurted player
+  - mob
+  - player
+  - 
+  - attack
+  - 
   - 
   - Platform
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
   - 
   - 
   - 
